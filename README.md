@@ -4,7 +4,10 @@ This is an early test build of Squelch, a multiplayer prototype using Steam's ne
 
 ## Download
 
-Grab the latest build from the [Releases](../../releases) page, unzip it, and run `Squelch.exe`.
+Two ways to get a build:
+
+- **Releases** (recommended, smallest download): grab the latest zip from the [Releases](../../releases) page and unzip it.
+- **Clone via GitHub Desktop**: clone this repo, then run `Squelch.exe` from the version folder (e.g. `0.0.1/Squelch.exe`).
 
 **Requirements:** Steam must be running and you must be logged in. This build includes debug-console access for testing.
 
